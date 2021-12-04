@@ -6,3 +6,4 @@
 
 def testdeploy():
     print("Test deploy successful")
+    print("Latest version install")
